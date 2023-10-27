@@ -7,24 +7,24 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    line-height: 1.6;
+    line-height: 1.7;
 
 }
 h1{
-    font-size: 36px;
+    font-size: 40px;
     font-weight: bold;
     text-align: center;
-    margin: 40px 0 60px 0;
+    margin: 45px 0 60px 0;
 }
 form{
     display: flex;
     text-align: center;
     align-items: center;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
 }
 #Search-input{
     width: 60%;
-    max-width: 400px;
+    max-width: 450px;
     padding: 10px 20px;
     border: none;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
@@ -91,7 +91,7 @@ form{
 
 }
 #show-more-button{
-    background-color: #008cba;
+    background-color: #0db7f0;
     font-size: 18px;
     border: none;
     color: #fff;
@@ -105,7 +105,7 @@ form{
 }
 @media screen and (max-width: 768px){
     .search-result{
-        padding: 20px;
+        padding: 25px;
     }
     .search-result{
         width: 45%;
